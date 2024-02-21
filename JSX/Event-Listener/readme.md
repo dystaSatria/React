@@ -23,7 +23,7 @@ Note that in HTML, event listener names are written in all lowercase, such as on
 
 ## Example
 
-``àpp.js```
+```àpp.js```
 
 ```js
 import React from 'react';
