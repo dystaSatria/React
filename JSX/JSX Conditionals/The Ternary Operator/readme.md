@@ -16,4 +16,4 @@ const headline = (
 );
 ```
 
-In the above example, if age is greater than or equal to drinkingAge, then headline will equal ```html <h1>Buy Drink</h1>```. Otherwise, headline will equal ```html <h1>Do Teen Stuff</h1>```.
+In the above example, if age is greater than or equal to drinkingAge, then headline will equal ``` <h1>Buy Drink</h1>```. Otherwise, headline will equal ``` <h1>Do Teen Stuff</h1>```.
